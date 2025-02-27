@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Đây là branch main
+=======
+Đây là file từ branch test_conflict
+>>>>>>> test_conflict
